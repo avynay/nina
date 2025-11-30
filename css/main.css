@@ -182,12 +182,16 @@ body {
   position: relative !important;
 }
 
-.swiper-button-next,
-.swiper-button-prev {
+.swiper__btn-box {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1251px;
+  width: 100%;
   position: absolute;
-  top: 325px;
-  cursor: pointer;
-  z-index: 5;
+  top: 340px;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
 .swiper-button-prev::after,
@@ -200,12 +204,22 @@ body {
   display: none;
 }
 
-.swiper-button-prev {
-  left: 2vw;
+.about .container {
+  position: relative !important;
 }
 
-.swiper-button-next {
-  right: 2vw;
+.about__svg-1 {
+  position: absolute;
+  top: -35%;
+  right: -5%;
+  z-index: -12;
+}
+
+.about__svg-2 {
+  position: absolute;
+  top: 0%;
+  left: 21%;
+  z-index:-11;
 }
 
 /* section projects */
