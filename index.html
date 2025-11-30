@@ -266,7 +266,6 @@
         const baseWidth = 1280
         const baseHeight = 750
         const container = document.documentElement
-
         function scalePage() {
             const scaleX = window.innerWidth / baseWidth
             const scaleY = window.innerHeight / baseHeight
@@ -276,7 +275,6 @@
             container.style.width = ${baseWidth}px
             container.style.height = ${baseHeight}px
         }
-
         window.addEventListener('resize', scalePage)
         scalePage()
     </script>
