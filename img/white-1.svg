@@ -1,0 +1,26 @@
+<svg width="306" height="306" viewBox="0 0 306 306" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_f_2069_530)">
+<circle cx="152.774" cy="152.774" r="104.674" fill="url(#paint0_linear_2069_530)"/>
+<circle cx="152.774" cy="152.774" r="104.674" fill="url(#paint1_radial_2069_530)"/>
+<circle cx="152.774" cy="152.774" r="104.674" fill="url(#paint2_radial_2069_530)"/>
+</g>
+<defs>
+<filter id="filter0_f_2069_530" x="9.91821e-05" y="9.91821e-05" width="305.549" height="305.549" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="24.05" result="effect1_foregroundBlur_2069_530"/>
+</filter>
+<linearGradient id="paint0_linear_2069_530" x1="152.774" y1="48.1001" x2="152.774" y2="257.449" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFB7E0"/>
+<stop offset="1" stop-color="#FF0000"/>
+</linearGradient>
+<radialGradient id="paint1_radial_2069_530" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(107.85 68.0167) rotate(60.0656) scale(157.249 196.678)">
+<stop stop-color="#FFB7E0"/>
+<stop offset="1" stop-color="#FF0000"/>
+</radialGradient>
+<radialGradient id="paint2_radial_2069_530" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(187.816 203.539) rotate(-124.335) scale(188.239 258.148)">
+<stop stop-color="#FFB7E0"/>
+<stop offset="1" stop-color="#FF0000"/>
+</radialGradient>
+</defs>
+</svg>
